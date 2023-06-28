@@ -1,0 +1,6 @@
+2023/04/13-02:57:18.115 a903 Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_2e5d49ae1516320776af88e4383e9fd8.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2023/04/13-02:57:18.123 a903 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_2e5d49ae1516320776af88e4383e9fd8.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/13-02:57:22.255 a603 Level-0 table #5: started
+2023/04/13-02:57:22.259 a603 Level-0 table #5: 480 bytes OK
+2023/04/13-02:57:22.264 a603 Delete type=0 #3
+2023/04/13-02:57:22.264 a603 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

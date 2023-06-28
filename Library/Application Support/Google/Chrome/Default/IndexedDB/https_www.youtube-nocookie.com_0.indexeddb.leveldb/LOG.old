@@ -1,0 +1,7 @@
+2023/04/16-17:57:25.428 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/16-17:57:25.428 8003 Recovering log #3
+2023/04/16-17:57:25.429 8003 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2023/04/16-18:47:56.325 8503 Level-0 table #5: started
+2023/04/16-18:47:56.328 8503 Level-0 table #5: 1361 bytes OK
+2023/04/16-18:47:56.339 8503 Delete type=0 #3
+2023/04/16-18:47:56.340 8503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+Release Version: 1.8.16
+Build Version: 1.8.16.131
+Build Time: 2023-04-20 03:29:29Z
+Branch: release
+Commit SHA:
+web/extension: 4683f439e2812a3ac9f3a064926cf972c4ef7219

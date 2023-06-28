@@ -1,0 +1,6 @@
+2023/04/22-12:21:05.588 6907 Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_regex101.com_0.indexeddb.leveldb since it was missing.
+2023/04/22-12:21:05.598 6907 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_regex101.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/22-12:21:41.416 a503 Level-0 table #5: started
+2023/04/22-12:21:41.420 a503 Level-0 table #5: 1800 bytes OK
+2023/04/22-12:21:41.425 a503 Delete type=0 #3
+2023/04/22-12:21:41.425 a503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,14 @@
+2023/05/13-04:34:39.052 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.ray-ban.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/13-04:34:39.052 8003 Recovering log #20
+2023/05/13-04:34:39.052 8003 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.ray-ban.com_0.indexeddb.leveldb/000020.log 
+2023/05/13-04:34:39.052 8003 Delete type=2 #19
+2023/05/13-04:34:40.369 b303 Level-0 table #25: started
+2023/05/13-04:34:40.372 b303 Level-0 table #25: 9377 bytes OK
+2023/05/13-04:34:40.380 b303 Delete type=0 #20
+2023/05/13-04:34:40.380 8003 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 566 : 1
+2023/05/13-04:34:40.380 8003 Compacting 1@0 + 1@1 files
+2023/05/13-04:34:40.385 8003 Generated table #26@0: 218 keys, 6505 bytes
+2023/05/13-04:34:40.385 8003 Compacted 1@0 + 1@1 files => 6505 bytes
+2023/05/13-04:34:40.390 8003 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/13-04:34:40.390 8003 Delete type=2 #25
+2023/05/13-04:34:40.390 8003 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 566 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

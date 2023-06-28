@@ -1,0 +1,15 @@
+2023/05/20-23:14:18.965 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/20-23:14:18.966 8003 Recovering log #7
+2023/05/20-23:14:18.966 8003 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000007.log 
+2023/05/20-23:14:21.323 8603 Level-0 table #12: started
+2023/05/20-23:14:21.327 8603 Level-0 table #12: 209 bytes OK
+2023/05/20-23:14:21.333 8603 Delete type=0 #7
+2023/05/20-23:14:21.333 8603 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/20-23:14:21.333 8603 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 14 : 1
+2023/05/20-23:14:21.333 8603 Compacting 1@1 + 1@2 files
+2023/05/20-23:14:21.335 8603 Generated table #13@1: 9 keys, 393 bytes
+2023/05/20-23:14:21.335 8603 Compacted 1@1 + 1@2 files => 393 bytes
+2023/05/20-23:14:21.339 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/20-23:14:21.339 8603 Delete type=2 #12
+2023/05/20-23:14:21.339 8603 Delete type=2 #9
+2023/05/20-23:14:21.340 8603 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 14 : 1 .. (end); will stop at (end)

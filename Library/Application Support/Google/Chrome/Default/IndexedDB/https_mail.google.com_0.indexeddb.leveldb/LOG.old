@@ -1,0 +1,15 @@
+2023/04/29-12:25:18.828 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/29-12:25:18.828 8003 Recovering log #39
+2023/04/29-12:25:18.833 8003 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000039.log 
+2023/04/30-01:44:34.582 8503 Level-0 table #44: started
+2023/04/30-01:44:34.604 8503 Level-0 table #44: 1709332 bytes OK
+2023/04/30-01:44:34.610 8503 Delete type=0 #39
+2023/04/30-01:44:34.611 8503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/30-01:44:34.611 8503 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 19681 : 1
+2023/04/30-01:44:34.611 8503 Compacting 1@1 + 1@2 files
+2023/04/30-01:44:34.618 8503 Generated table #45@1: 93 keys, 97618 bytes
+2023/04/30-01:44:34.618 8503 Compacted 1@1 + 1@2 files => 97618 bytes
+2023/04/30-01:44:34.623 8503 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/30-01:44:34.623 8503 Delete type=2 #41
+2023/04/30-01:44:34.623 8503 Delete type=2 #44
+2023/04/30-01:44:34.624 8503 Manual compaction at level-1 from '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 19681 : 1 .. (end); will stop at (end)

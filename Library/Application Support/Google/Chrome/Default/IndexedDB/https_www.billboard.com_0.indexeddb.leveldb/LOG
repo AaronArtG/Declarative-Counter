@@ -1,0 +1,15 @@
+2023/04/16-13:51:29.632 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.billboard.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/16-13:51:29.632 8003 Recovering log #4
+2023/04/16-13:51:29.632 8003 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.billboard.com_0.indexeddb.leveldb/000004.log 
+2023/04/16-13:51:38.945 8503 Level-0 table #8: started
+2023/04/16-13:51:38.949 8503 Level-0 table #8: 157130 bytes OK
+2023/04/16-13:51:38.954 8503 Delete type=0 #4
+2023/04/16-13:51:38.954 8503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/16-13:51:38.954 8503 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 349 : 1
+2023/04/16-13:51:38.954 8503 Compacting 1@1 + 1@2 files
+2023/04/16-13:51:38.958 8503 Generated table #9@1: 37 keys, 18408 bytes
+2023/04/16-13:51:38.958 8503 Compacted 1@1 + 1@2 files => 18408 bytes
+2023/04/16-13:51:38.964 8503 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/16-13:51:38.964 8503 Delete type=2 #5
+2023/04/16-13:51:38.964 8503 Delete type=2 #8
+2023/04/16-13:51:38.965 8503 Manual compaction at level-1 from '\x00\x03\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 349 : 1 .. (end); will stop at (end)

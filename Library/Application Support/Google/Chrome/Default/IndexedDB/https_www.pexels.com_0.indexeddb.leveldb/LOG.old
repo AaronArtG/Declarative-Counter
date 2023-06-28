@@ -1,0 +1,15 @@
+2023/03/18-09:31:57.346 8207 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/18-09:31:57.347 8207 Recovering log #4
+2023/03/18-09:31:57.347 8207 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/000004.log 
+2023/03/18-11:36:19.943 32137 Level-0 table #8: started
+2023/03/18-11:36:19.948 32137 Level-0 table #8: 639 bytes OK
+2023/03/18-11:36:19.952 32137 Delete type=0 #4
+2023/03/18-11:36:19.952 32137 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/18-11:36:19.952 32137 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 290 : 1
+2023/03/18-11:36:19.952 32137 Compacting 1@1 + 1@2 files
+2023/03/18-11:36:19.956 32137 Generated table #9@1: 87 keys, 1623 bytes
+2023/03/18-11:36:19.956 32137 Compacted 1@1 + 1@2 files => 1623 bytes
+2023/03/18-11:36:19.960 32137 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/18-11:36:19.960 32137 Delete type=2 #5
+2023/03/18-11:36:19.960 32137 Delete type=2 #8
+2023/03/18-11:36:19.962 32137 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 290 : 1 .. (end); will stop at (end)

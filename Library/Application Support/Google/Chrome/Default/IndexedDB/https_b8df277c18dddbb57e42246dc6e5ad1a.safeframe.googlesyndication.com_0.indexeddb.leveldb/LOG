@@ -1,0 +1,7 @@
+2023/04/21-21:33:29.258 6907 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_b8df277c18dddbb57e42246dc6e5ad1a.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/21-21:33:29.258 6907 Recovering log #3
+2023/04/21-21:33:29.258 6907 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_b8df277c18dddbb57e42246dc6e5ad1a.safeframe.googlesyndication.com_0.indexeddb.leveldb/000003.log 
+2023/04/21-21:33:39.521 a503 Level-0 table #5: started
+2023/04/21-21:33:39.525 a503 Level-0 table #5: 480 bytes OK
+2023/04/21-21:33:39.531 a503 Delete type=0 #3
+2023/04/21-21:33:39.532 a503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

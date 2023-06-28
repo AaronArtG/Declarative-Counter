@@ -1,0 +1,15 @@
+2023/05/20-06:01:34.168 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.bestbuy.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/20-06:01:34.168 8003 Recovering log #4
+2023/05/20-06:01:34.168 8003 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.bestbuy.com_0.indexeddb.leveldb/000004.log 
+2023/05/20-06:01:36.432 8603 Level-0 table #8: started
+2023/05/20-06:01:36.435 8603 Level-0 table #8: 209 bytes OK
+2023/05/20-06:01:36.454 8603 Delete type=0 #4
+2023/05/20-06:01:36.454 8603 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/20-06:01:36.454 8603 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 83 : 1
+2023/05/20-06:01:36.454 8603 Compacting 1@1 + 1@2 files
+2023/05/20-06:01:36.458 8603 Generated table #9@1: 31 keys, 689 bytes
+2023/05/20-06:01:36.458 8603 Compacted 1@1 + 1@2 files => 689 bytes
+2023/05/20-06:01:36.464 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/20-06:01:36.464 8603 Delete type=2 #5
+2023/05/20-06:01:36.464 8603 Delete type=2 #8
+2023/05/20-06:01:36.465 8603 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 83 : 1 .. (end); will stop at (end)

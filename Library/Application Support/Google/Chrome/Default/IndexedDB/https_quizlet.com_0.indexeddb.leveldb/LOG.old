@@ -1,0 +1,6 @@
+2023/04/15-12:08:09.023 8003 Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb since it was missing.
+2023/04/15-12:08:09.033 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/15-12:08:49.094 8503 Level-0 table #5: started
+2023/04/15-12:08:49.097 8503 Level-0 table #5: 2238 bytes OK
+2023/04/15-12:08:49.100 8503 Delete type=0 #3
+2023/04/15-12:08:49.101 8503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

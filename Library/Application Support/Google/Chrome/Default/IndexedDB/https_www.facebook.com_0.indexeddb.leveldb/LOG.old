@@ -1,0 +1,96 @@
+2023/05/19-23:34:09.023 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/19-23:34:09.024 8003 Recovering log #100
+2023/05/19-23:34:09.025 8003 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000100.log 
+2023/05/19-23:47:26.604 8603 Level-0 table #105: started
+2023/05/19-23:47:26.621 8603 Level-0 table #105: 2080734 bytes OK
+2023/05/19-23:47:26.625 8603 Delete type=0 #100
+2023/05/19-23:58:50.363 8603 Level-0 table #107: started
+2023/05/19-23:58:50.374 8603 Level-0 table #107: 2635261 bytes OK
+2023/05/19-23:58:50.379 8603 Delete type=0 #104
+2023/05/20-00:00:39.922 8603 Compacting 1@0 + 1@1 files
+2023/05/20-00:00:39.942 8603 Generated table #108@0: 23866 keys, 1359870 bytes
+2023/05/20-00:00:39.942 8603 Compacted 1@0 + 1@1 files => 1359870 bytes
+2023/05/20-00:00:39.950 8603 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/20-00:00:39.950 8603 Delete type=2 #105
+2023/05/20-00:00:39.950 8603 Delete type=2 #107
+2023/05/20-00:14:37.767 8603 Level-0 table #110: started
+2023/05/20-00:14:37.779 8603 Level-0 table #110: 2571189 bytes OK
+2023/05/20-00:14:37.785 8603 Delete type=0 #106
+2023/05/20-00:14:38.075 8603 Compacting 1@0 + 1@1 files
+2023/05/20-00:14:38.097 8603 Generated table #111@0: 29920 keys, 1709958 bytes
+2023/05/20-00:14:38.097 8603 Compacted 1@0 + 1@1 files => 1709958 bytes
+2023/05/20-00:14:38.099 8603 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/20-00:14:38.100 8603 Delete type=2 #110
+2023/05/20-00:14:38.100 8603 Delete type=2 #108
+2023/05/20-00:38:45.947 8603 Level-0 table #113: started
+2023/05/20-00:38:45.965 8603 Level-0 table #113: 2416579 bytes OK
+2023/05/20-00:38:45.972 8603 Delete type=0 #109
+2023/05/20-00:38:55.992 8603 Compacting 1@0 + 1@1 files
+2023/05/20-00:38:56.025 8603 Generated table #114@0: 35677 keys, 1859869 bytes
+2023/05/20-00:38:56.025 8603 Compacted 1@0 + 1@1 files => 1859869 bytes
+2023/05/20-00:38:56.033 8603 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/20-00:38:56.034 8603 Delete type=2 #111
+2023/05/20-00:38:56.034 8603 Delete type=2 #113
+2023/05/20-01:51:22.105 b303 Level-0 table #116: started
+2023/05/20-01:51:22.126 b303 Level-0 table #116: 1721033 bytes OK
+2023/05/20-01:51:22.134 b303 Delete type=0 #112
+2023/05/20-01:57:00.617 b303 Compacting 1@0 + 1@1 files
+2023/05/20-01:57:00.654 b303 Generated table #117@0: 44022 keys, 1932859 bytes
+2023/05/20-01:57:00.654 b303 Compacted 1@0 + 1@1 files => 1932859 bytes
+2023/05/20-01:57:00.660 b303 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/20-01:57:00.660 b303 Delete type=2 #116
+2023/05/20-01:57:00.660 b303 Delete type=2 #114
+2023/05/20-03:02:43.813 8003 Compacting 1@1 + 1@2 files
+2023/05/20-03:02:43.835 8003 Generated table #118@1: 9355 keys, 1827218 bytes
+2023/05/20-03:02:43.835 8003 Compacted 1@1 + 1@2 files => 1827218 bytes
+2023/05/20-03:02:43.842 8003 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/20-03:02:43.842 8003 Delete type=2 #102
+2023/05/20-03:02:43.842 8003 Delete type=2 #117
+2023/05/20-03:35:27.475 8603 Level-0 table #120: started
+2023/05/20-03:35:27.494 8603 Level-0 table #120: 1716898 bytes OK
+2023/05/20-03:35:27.497 8603 Delete type=0 #115
+2023/05/20-03:53:23.364 8603 Compacting 1@1 + 1@2 files
+2023/05/20-03:53:23.381 8603 Generated table #121@1: 9343 keys, 1828079 bytes
+2023/05/20-03:53:23.381 8603 Compacted 1@1 + 1@2 files => 1828079 bytes
+2023/05/20-03:53:23.384 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/20-03:53:23.384 8603 Delete type=2 #120
+2023/05/20-03:53:23.384 8603 Delete type=2 #118
+2023/05/20-08:18:19.512 8603 Level-0 table #123: started
+2023/05/20-08:18:19.530 8603 Level-0 table #123: 1710411 bytes OK
+2023/05/20-08:18:19.536 8603 Delete type=0 #119
+2023/05/20-08:41:41.101 8603 Compacting 1@1 + 1@2 files
+2023/05/20-08:41:41.120 8603 Generated table #124@1: 9304 keys, 1824454 bytes
+2023/05/20-08:41:41.120 8603 Compacted 1@1 + 1@2 files => 1824454 bytes
+2023/05/20-08:41:41.126 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/20-08:41:41.126 8603 Delete type=2 #123
+2023/05/20-08:41:41.126 8603 Delete type=2 #121
+2023/05/20-15:55:51.527 b303 Level-0 table #126: started
+2023/05/20-15:55:51.546 b303 Level-0 table #126: 1700645 bytes OK
+2023/05/20-15:55:51.553 b303 Delete type=0 #122
+2023/05/20-16:27:08.160 b303 Compacting 1@1 + 1@2 files
+2023/05/20-16:27:08.180 b303 Generated table #127@1: 9309 keys, 1824282 bytes
+2023/05/20-16:27:08.180 b303 Compacted 1@1 + 1@2 files => 1824282 bytes
+2023/05/20-16:27:08.184 b303 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/20-16:27:08.184 b303 Delete type=2 #124
+2023/05/20-16:27:08.184 b303 Delete type=2 #126
+2023/05/20-21:45:17.638 8603 Level-0 table #129: started
+2023/05/20-21:45:17.658 8603 Level-0 table #129: 1745652 bytes OK
+2023/05/20-21:45:17.665 8603 Delete type=0 #125
+2023/05/20-21:45:19.578 8603 Compacting 1@1 + 1@2 files
+2023/05/20-21:45:19.602 8603 Generated table #130@1: 9295 keys, 1823936 bytes
+2023/05/20-21:45:19.602 8603 Compacted 1@1 + 1@2 files => 1823936 bytes
+2023/05/20-21:45:19.608 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/20-21:45:19.608 8603 Delete type=2 #129
+2023/05/20-21:45:19.608 8603 Delete type=2 #127
+2023/05/21-00:10:24.150 8603 Level-0 table #132: started
+2023/05/21-00:10:24.171 8603 Level-0 table #132: 1435377 bytes OK
+2023/05/21-00:10:24.177 8603 Delete type=0 #128
+2023/05/21-00:10:24.177 8603 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/21-00:10:24.177 8603 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0d`\x02\x03\x00\x00\x00\x00\x00\xa0\x7f@' @ 259228 : 1
+2023/05/21-00:10:24.177 8603 Compacting 1@1 + 1@2 files
+2023/05/21-00:10:24.195 8603 Generated table #133@1: 9294 keys, 1822644 bytes
+2023/05/21-00:10:24.195 8603 Compacted 1@1 + 1@2 files => 1822644 bytes
+2023/05/21-00:10:24.200 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/21-00:10:24.200 8603 Delete type=2 #130
+2023/05/21-00:10:24.200 8603 Delete type=2 #132
+2023/05/21-00:10:24.200 8603 Manual compaction at level-1 from '\x00\x0d`\x02\x03\x00\x00\x00\x00\x00\xa0\x7f@' @ 259228 : 1 .. (end); will stop at (end)

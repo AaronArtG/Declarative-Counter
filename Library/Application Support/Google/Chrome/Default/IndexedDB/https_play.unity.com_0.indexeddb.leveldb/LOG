@@ -1,0 +1,6 @@
+2023/03/31-21:28:33.987 a907 Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_play.unity.com_0.indexeddb.leveldb since it was missing.
+2023/03/31-21:28:33.996 a907 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_play.unity.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/01-11:21:15.012 a403 Level-0 table #5: started
+2023/04/01-11:21:15.016 a403 Level-0 table #5: 4235 bytes OK
+2023/04/01-11:21:15.022 a403 Delete type=0 #3
+2023/04/01-11:21:15.023 a403 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

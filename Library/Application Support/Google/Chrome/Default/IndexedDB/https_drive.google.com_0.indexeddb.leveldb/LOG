@@ -1,0 +1,5 @@
+2023/05/22-18:19:13.034 8103 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/22-18:19:13.034 8103 Recovering log #563
+2023/05/22-18:19:13.045 8103 Level-0 table #574: started
+2023/05/22-18:19:13.060 8103 Level-0 table #574: 1860753 bytes OK
+2023/05/22-18:19:13.068 8103 Delete type=0 #563

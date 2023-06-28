@@ -1,0 +1,6 @@
+2023/02/22-19:00:34.240 f74f Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_apac.ctnsnet.com_0.indexeddb.leveldb since it was missing.
+2023/02/22-19:00:34.247 f74f Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_apac.ctnsnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/22-19:01:16.262 f74f Level-0 table #5: started
+2023/02/22-19:01:16.266 f74f Level-0 table #5: 383 bytes OK
+2023/02/22-19:01:16.270 f74f Delete type=0 #3
+2023/02/22-19:01:16.271 f74f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/05/22-17:52:36.751 8703 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/22-17:52:36.751 8703 Recovering log #160
+2023/05/22-17:52:36.757 8703 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000160.log 
+2023/05/22-19:00:06.232 8703 Level-0 table #165: started
+2023/05/22-19:00:06.254 8703 Level-0 table #165: 1223213 bytes OK
+2023/05/22-19:00:06.259 8703 Delete type=0 #160

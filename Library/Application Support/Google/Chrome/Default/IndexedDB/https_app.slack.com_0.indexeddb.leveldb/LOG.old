@@ -1,0 +1,15 @@
+2023/03/27-21:47:21.227 8107 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/27-21:47:21.227 8107 Recovering log #4
+2023/03/27-21:47:21.227 8107 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000004.log 
+2023/03/28-19:21:01.145 8703 Level-0 table #8: started
+2023/03/28-19:21:01.149 8703 Level-0 table #8: 2657 bytes OK
+2023/03/28-19:21:01.152 8703 Delete type=0 #4
+2023/03/28-19:21:01.153 8703 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/28-19:21:01.153 8703 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x006\x00Q\x007\x00Y\x00E\x00Y\x00F\x005\x00-\x00U\x000\x004\x00J\x00Z\x004\x001\x00E\x002\x00N\x00A' @ 216 : 0
+2023/03/28-19:21:01.153 8703 Compacting 1@1 + 1@2 files
+2023/03/28-19:21:01.158 8703 Generated table #9@1: 37 keys, 916 bytes
+2023/03/28-19:21:01.158 8703 Compacted 1@1 + 1@2 files => 916 bytes
+2023/03/28-19:21:01.165 8703 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/28-19:21:01.165 8703 Delete type=2 #5
+2023/03/28-19:21:01.165 8703 Delete type=2 #8
+2023/03/28-19:21:01.167 8703 Manual compaction at level-1 from '\x00\x01\x01\x03\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x006\x00Q\x007\x00Y\x00E\x00Y\x00F\x005\x00-\x00U\x000\x004\x00J\x00Z\x004\x001\x00E\x002\x00N\x00A' @ 216 : 0 .. (end); will stop at (end)

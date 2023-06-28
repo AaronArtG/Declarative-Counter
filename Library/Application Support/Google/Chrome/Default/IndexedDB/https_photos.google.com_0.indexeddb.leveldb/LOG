@@ -1,0 +1,15 @@
+2023/05/02-22:23:52.077 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/02-22:23:52.078 8003 Recovering log #555
+2023/05/02-22:23:52.078 8003 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000555.log 
+2023/05/02-22:24:24.244 8003 Level-0 table #560: started
+2023/05/02-22:24:24.248 8003 Level-0 table #560: 209 bytes OK
+2023/05/02-22:24:24.254 8003 Delete type=0 #555
+2023/05/02-22:24:24.254 8003 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/02-22:24:24.254 8003 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 677676 : 1
+2023/05/02-22:24:24.254 8003 Compacting 1@1 + 1@2 files
+2023/05/02-22:24:24.264 8003 Generated table #561@1: 2600 keys, 2141496 bytes
+2023/05/02-22:24:24.264 8003 Compacted 1@1 + 1@2 files => 2141496 bytes
+2023/05/02-22:24:24.270 8003 compacted to: files[ 0 0 28 0 0 0 0 ]
+2023/05/02-22:24:24.270 8003 Delete type=2 #560
+2023/05/02-22:24:24.270 8003 Delete type=2 #557
+2023/05/02-22:24:24.270 8003 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 677676 : 1 .. (end); will stop at (end)

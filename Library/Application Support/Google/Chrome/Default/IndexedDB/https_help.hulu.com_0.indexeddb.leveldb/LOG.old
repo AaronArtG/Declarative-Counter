@@ -1,0 +1,6 @@
+2023/03/24-02:10:32.285 6d07 Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_help.hulu.com_0.indexeddb.leveldb since it was missing.
+2023/03/24-02:10:32.293 6d07 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_help.hulu.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/24-02:10:33.437 f903 Level-0 table #5: started
+2023/03/24-02:10:33.442 f903 Level-0 table #5: 408556 bytes OK
+2023/03/24-02:10:33.449 f903 Delete type=0 #3
+2023/03/24-02:10:33.450 a603 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

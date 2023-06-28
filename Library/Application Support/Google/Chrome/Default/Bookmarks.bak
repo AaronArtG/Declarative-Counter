@@ -1,0 +1,565 @@
+{
+   "checksum": "65cd28d01d4c109337797ba948617b7b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13319097041323463",
+            "date_last_used": "13319685375363620",
+            "guid": "da9ec174-a131-4ab0-b552-ad5a8257103c",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "From Zero to Game Designer: how to start building video games even if you don’t have any experience",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/news/from-zero-to-game-designer-how-to-start-building-video-games-even-if-you-dont-have-any-experience-5e2f9f45f4bb/"
+         }, {
+            "date_added": "13319097049476126",
+            "date_last_used": "13324783428576556",
+            "guid": "b60df20c-3609-41c0-a624-68ff7ce8d11f",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Unity Game Dev Courses: Swords and Shovels",
+            "type": "url",
+            "url": "https://unity.com/learn/swordsandshovels"
+         }, {
+            "date_added": "13319097060634765",
+            "date_last_used": "13326010666531921",
+            "guid": "83b0fbe3-7785-4e9b-b2a0-4534c831c3f6",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HTTP response status codes - HTTP | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+         }, {
+            "date_added": "13319802826595672",
+            "date_last_used": "13327017527558432",
+            "guid": "e5c0fe76-e72f-49c5-b077-3acffe791a70",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AaronArtG/group-project",
+            "type": "url",
+            "url": "https://github.com/AaronArtG/group-project?organization=AaronArtG&organization=AaronArtG"
+         }, {
+            "date_added": "13319873657395747",
+            "date_last_used": "13328885439673567",
+            "guid": "bade8e67-5bd0-4166-a912-5d61531fb452",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "W3Schools Online Web Tutorials",
+            "type": "url",
+            "url": "https://www.w3schools.com/"
+         }, {
+            "date_added": "13319873684883052",
+            "date_last_used": "13323279081825004",
+            "guid": "7ff81a77-0d30-4fe7-a145-65f5c5135246",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "line-height - CSS: Cascading Style Sheets | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height"
+         }, {
+            "date_added": "13319896077452624",
+            "date_last_used": "13329147182904245",
+            "guid": "18492164-1289-4872-a89f-e03e3e3559b1",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "thrivedx - Sign In",
+            "type": "url",
+            "url": "https://thrivedx.okta.com/app/thrivedx_canvas_1/exk2m46fjsLwBjjmn697/sso/saml"
+         }, {
+            "date_added": "13320177008872779",
+            "date_last_used": "13323752863895807",
+            "guid": "e11e8d10-2cab-4123-9e13-d859bf1537bb",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SDSU Software Development Student Code of Conduct",
+            "type": "url",
+            "url": "https://digitalskills.instructure.com/courses/6378?invitation=jpa5vvznHqeEUsB1Na7rNM1St0Bwta27agjULja2"
+         }, {
+            "date_added": "13320196056734305",
+            "date_last_used": "13328366035201431",
+            "guid": "b4904132-e3ab-4d35-a3db-38e077f76aeb",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13320259799218094",
+            "date_last_used": "0",
+            "guid": "f87e9603-8bc2-49f5-9d32-0952dc7b1d0d",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Replit: the collaborative browser based IDE - Replit",
+            "type": "url",
+            "url": "https://replit.com/"
+         }, {
+            "date_added": "13320261742180994",
+            "date_last_used": "0",
+            "guid": "5d456e83-d5f6-49e3-94ff-e1f48313ef7c",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Instagram • Chats",
+            "type": "url",
+            "url": "https://www.instagram.com/direct/t/340282366841710300949128126053589289753"
+         }, {
+            "date_added": "13320618564007735",
+            "date_last_used": "0",
+            "guid": "bfd1ce92-04f9-4a5d-b938-22eafda90840",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HTML Tutorial",
+            "type": "url",
+            "url": "https://www.w3schools.com/html/"
+         }, {
+            "date_added": "13320618818504341",
+            "date_last_used": "13323279112044805",
+            "guid": "69a50afb-a074-4cba-86dd-1b1e0a5300b3",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CSS Selectors",
+            "type": "url",
+            "url": "https://www.w3schools.com/css/css_selectors.asp"
+         }, {
+            "date_added": "13320619129472708",
+            "date_last_used": "0",
+            "guid": "7103b31c-99b6-4f4c-9a0c-84228c3220b7",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JavaScript Tutorial",
+            "type": "url",
+            "url": "https://www.w3schools.com/js/default.asp"
+         }, {
+            "date_added": "13321688811137177",
+            "date_last_used": "13323279286985123",
+            "guid": "56af0114-e716-40fc-a455-5ed9b683ddb2",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Fonts",
+            "type": "url",
+            "url": "https://fonts.google.com/"
+         }, {
+            "date_added": "13321689766736114",
+            "date_last_used": "0",
+            "guid": "0ba975e4-9f0e-4332-bbbf-c3e9903e5507",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JeniDub ThriveDX Future Software Developers Resource List - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1D4f2PH8c9PKrW46G_b25mRoO3dLhchsmcW9_vv_PSWk/edit#gid=0"
+         }, {
+            "date_added": "13322926844809432",
+            "date_last_used": "0",
+            "guid": "f97223b5-10ca-4262-91eb-d913cf26b115",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Document",
+            "type": "url",
+            "url": "file:///Users/aarongarcia/HTML-Restaurant-Menu/about.html"
+         }, {
+            "date_added": "13323031660080182",
+            "date_last_used": "0",
+            "guid": "6cd89cbc-6dc1-4ac3-94e2-74fd7586bf30",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Essential Programming Docs - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1QFrR1AlsZz39-zNiYEaTDk6HWcj-0RcNiEcAAYiPP5w/edit"
+         }, {
+            "date_added": "13323031723652415",
+            "date_last_used": "0",
+            "guid": "82f544d3-4c66-46da-ab7b-f30dbd4c47f2",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Essential VSCode Settings, Extensions and Keyboard Commands - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1iegEA3PuHKc9jR8-WOUqUbbXpaXsK2tZiEMBH3AIkWA/edit"
+         }, {
+            "date_added": "13323044881355855",
+            "date_last_used": "0",
+            "guid": "fb1fadf5-5823-4098-84cc-9a4abe47edbc",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "git-commands-cheat-sheet-by-pnap-v2.pdf",
+            "type": "url",
+            "url": "https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf"
+         }, {
+            "date_added": "13323242132527737",
+            "date_last_used": "13323278644319406",
+            "guid": "39c32e46-b15b-426c-aa1a-a53cdd52f702",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Font Awesome",
+            "type": "url",
+            "url": "https://fontawesome.com/icons"
+         }, {
+            "date_added": "13323273629643093",
+            "date_last_used": "0",
+            "guid": "46c5d659-b47b-45a9-8231-26eee750747d",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Website Accessibility & Design: A vs. AA vs. AAA | Thinkbean",
+            "type": "url",
+            "url": "https://www.thinkbean.com/drupal-development-blog/website-accessibility-design-vs-aa-vs-aaa#:~:text=AAA%20compliance%20is%20viewed%20as,light%20background%20and%20vice%20versa."
+         }, {
+            "date_added": "13323302363289476",
+            "date_last_used": "0",
+            "guid": "28f3f2f3-7763-4950-aa43-7c56926130a7",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dark Elf Lyrics.",
+            "type": "url",
+            "url": "https://chat.openai.com/chat"
+         }, {
+            "date_added": "13323305083767022",
+            "date_last_used": "0",
+            "guid": "285d7601-6cd7-4cc9-b63e-6d343b72a28e",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Introduction · Bootstrap",
+            "type": "url",
+            "url": "https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template"
+         }, {
+            "date_added": "13323305630867100",
+            "date_last_used": "0",
+            "guid": "36e54993-fc7c-4cac-95f0-5b92e4c25f69",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bootstrap 3 Tutorial",
+            "type": "url",
+            "url": "https://www.w3schools.com/bootstrap/"
+         }, {
+            "date_added": "13323308868110184",
+            "date_last_used": "0",
+            "guid": "96764791-6504-446f-a70b-7214767a21d9",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks",
+            "type": "url",
+            "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+         }, {
+            "date_added": "13323308902866260",
+            "date_last_used": "0",
+            "guid": "e79b0d63-8343-4d75-b6e0-2ec70b22589e",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "A Complete Guide to CSS Grid | CSS-Tricks - CSS-Tricks",
+            "type": "url",
+            "url": "https://css-tricks.com/snippets/css/complete-guide-grid/"
+         }, {
+            "date_added": "13323405020063889",
+            "date_last_used": "0",
+            "guid": "d53fa7a6-6840-42ff-8a4b-5ec5b6decf0b",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CSS selectors - CSS: Cascading Style Sheets | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"
+         }, {
+            "date_added": "13323405950140404",
+            "date_last_used": "0",
+            "guid": "f55dbd28-0814-499c-8af7-4d14c144b45e",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CSS Specificity Wars |  Blog archives | Stuff & Nonsense, Wales, UK",
+            "type": "url",
+            "url": "https://stuffandnonsense.co.uk/archives/css_specificity_wars.html"
+         }, {
+            "date_added": "13323645940951692",
+            "date_last_used": "0",
+            "guid": "ccc1af58-11dd-4e73-99c3-ada6d4830216",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CSS: fonts",
+            "type": "url",
+            "url": "https://www.w3.org/Style/Examples/007/fonts.en.html"
+         }, {
+            "date_added": "13323645991463146",
+            "date_last_used": "0",
+            "guid": "d5903f5e-6e34-490e-b37a-4b0ebd8c7e8d",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Font Finder By Image — Fontspring Matcherator",
+            "type": "url",
+            "url": "https://www.fontspring.com/matcherator"
+         }, {
+            "date_added": "13323834890575402",
+            "date_last_used": "0",
+            "guid": "053a1ca6-1345-48b8-88b0-1cb5f78360e8",
+            "id": "46",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Box Shadow CSS Generator | CSSmatic",
+            "type": "url",
+            "url": "https://www.cssmatic.com/box-shadow"
+         }, {
+            "date_added": "13324009814852061",
+            "date_last_used": "0",
+            "guid": "3748d509-ff07-44b8-98c8-bd3d9bde5591",
+            "id": "48",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Can I use... Support tables for HTML5, CSS3, etc",
+            "type": "url",
+            "url": "https://caniuse.com/"
+         }, {
+            "date_added": "13324010736636555",
+            "date_last_used": "13324028096607488",
+            "guid": "96cc4c0a-30ee-46ab-a26b-09cf9eedb56c",
+            "id": "49",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Flexbox Froggy - A game for learning CSS flexbox",
+            "type": "url",
+            "url": "https://flexboxfroggy.com/"
+         }, {
+            "date_added": "13324014292327359",
+            "date_last_used": "0",
+            "guid": "38aa046c-9496-489b-9d90-251db0640d33",
+            "id": "50",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The Holy Grail Layout with CSS Grid | CSS-Tricks - CSS-Tricks",
+            "type": "url",
+            "url": "https://css-tricks.com/the-holy-grail-layout-with-css-grid/"
+         }, {
+            "date_added": "13324015255959674",
+            "date_last_used": "0",
+            "guid": "a9730451-cfa9-4f74-a58e-461bfff7b2eb",
+            "id": "51",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties"
+         }, {
+            "date_added": "13324017055968237",
+            "date_last_used": "0",
+            "guid": "36431baf-098b-4a19-99a3-d64fa085938e",
+            "id": "52",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GRID: A simple visual cheatsheet for CSS Grid Layout",
+            "type": "url",
+            "url": "https://grid.malven.co/"
+         }, {
+            "date_added": "13324017352182129",
+            "date_last_used": "0",
+            "guid": "d6231be7-1356-41cf-93ff-ccc24cf24959",
+            "id": "53",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Flexbox Defense",
+            "type": "url",
+            "url": "http://www.flexboxdefense.com/"
+         }, {
+            "date_added": "13324242102283754",
+            "date_last_used": "0",
+            "guid": "0b3d39ff-2bf0-4fa7-b249-9171bae68302",
+            "id": "55",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Frontend Mentor | Front-end coding challenges using a real-life workflow",
+            "type": "url",
+            "url": "https://www.frontendmentor.io/"
+         }, {
+            "date_added": "13324618073871884",
+            "date_last_used": "0",
+            "guid": "d8a5bcc5-eed6-4edd-ade2-5113a3979e9a",
+            "id": "57",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WebAIM: Contrast Checker",
+            "type": "url",
+            "url": "https://webaim.org/resources/contrastchecker/"
+         }, {
+            "date_added": "13324618164125221",
+            "date_last_used": "0",
+            "guid": "e8898fcb-f0b7-4785-878a-e062a6fd8ce6",
+            "id": "58",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Color palette, the color scheme for artists | Adobe Color",
+            "type": "url",
+            "url": "https://color.adobe.com/explore"
+         }, {
+            "date_added": "13324618343167742",
+            "date_last_used": "13324697914611487",
+            "guid": "1ba37e56-7c9d-4b95-bb53-15c401856e72",
+            "id": "59",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Create a Palette - Coolors",
+            "type": "url",
+            "url": "https://coolors.co/231c07-392a16-634133-b86f52-f78764"
+         }, {
+            "date_added": "13324621690068665",
+            "date_last_used": "0",
+            "guid": "cb6a4944-2e5a-43f9-8b57-ecc24b96fa94",
+            "id": "60",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Free Fonts! Legit Free & Quality » Font Squirrel",
+            "type": "url",
+            "url": "https://www.fontsquirrel.com/"
+         }, {
+            "date_added": "13324622251278274",
+            "date_last_used": "0",
+            "guid": "7c1734be-1e14-4223-bdc0-aaa7f6e9ce65",
+            "id": "61",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Typography for Developers | CSS-Tricks - CSS-Tricks",
+            "type": "url",
+            "url": "https://css-tricks.com/typography-for-developers/"
+         }, {
+            "date_added": "13324662729252742",
+            "date_last_used": "0",
+            "guid": "a0654fc6-d528-4203-91f1-72f45d11ba2e",
+            "id": "62",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Frontend Mentor | Front-end coding challenges using a real-life workflow",
+            "type": "url",
+            "url": "https://www.frontendmentor.io/home"
+         }, {
+            "date_added": "13324662738036998",
+            "date_last_used": "0",
+            "guid": "dc3f903e-a0c1-4887-aa1c-25104051a3c4",
+            "id": "63",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Principles of Design: Hierarchy – UX Engineer",
+            "type": "url",
+            "url": "https://uxengineer.com/principles-of-design/hierarchy/"
+         }, {
+            "date_added": "13327276298794725",
+            "date_last_used": "0",
+            "guid": "a69a4b3a-85a3-4d58-b325-bd22a1baf9cc",
+            "id": "65",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Visual Studio Code Key Bindings",
+            "type": "url",
+            "url": "https://code.visualstudio.com/docs/getstarted/keybindings"
+         }, {
+            "date_added": "13328777718468088",
+            "date_last_used": "0",
+            "guid": "24c490d4-996c-46cc-bad3-60db7b7839ec",
+            "id": "67",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Order of Presentation - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1EGUIw3gDUd72dZu3SWw8wWk60tmSlCW2jjfiHNYgXXo/edit#gid=0"
+         } ],
+         "date_added": "13320176608738562",
+         "date_last_used": "0",
+         "date_modified": "13328777718468088",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13320176608738563",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13320176608738564",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu8BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgmADVdQMvwFACGADVdQMvwFADIYChYIAhGCxaNfMvwFABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJRt+jXzL8BQARRt+jXzL8BQApaeOkXzL8BQAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmAohFbMvwFABGAohFbMvwFAClG26NfMvwFADCAxcbYpYb/AroBAggBEgAgASoYZWpReXJEVXcvd1lkc3hFNjdCUlZ6UT09SAMS9AEIQxLvAQocU1ljb1JkbmxhcVFHWkpJVmZuT2hwV0I4NGhZPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2SmJlalV5VGp0VEFGUllibmhSWG9YdmZxUUNDQklKazNEa240TnV0SkF6K2hCZGNXRjBmamphM1J1OCtRK3VKaC9zdUNJdz09GAAgAigCMKq3tubZ+/4COMWF5cKCMUDoheXCgjFKHEY1cUFpQkxPZ0thbW41MVNkY3NkYThEV2FLYz1aJyIl/////wAAAAX1ckt0WTUwci9FTlR4eXp1VHVVY2hLbXhGajg4PWWgZtvoEuwBCAsS5wEKHFBIS3ByMWlyc2pBcmR0UXc5VzVVLy93alUvaz0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdk5WR2RHOThKb1VJR0lXM1ZPcTV2TTVIMVVJS3kvOGVCbjNWK3luUzVKRERXekZYUXU1cy9OTnd0a3dNdElteSs2MVduRFE9PRgAIAMoAzDF6oibx4n9Ajjljp2L4TBA/dm9w+MwShxpSHBnQzBPSUNSSUo5NmhZd2lZdmtFNktpWFE9Wh8iHe11WWV6TUJ6WHJuZEFVOEhnemVQVzVOdkFKUk09ZQgMSi4S7QEIFhLoAQocMTNQbXVhdkNNZUFBbGdWRnhYUk5wMitpeTBBPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2b2ZDL2h2cjEycEJ3KzM1MVZyMXBIcE4rZjFSSnhhMlByU05qQkp3RU1FUTE2NHNGd05xa3A1b1FFL2lXOVFBQXlxeUF5QT09GAAgAigCMPDsotigjv0COIClvJDkMECVpbyQ5DBKHFFYcXdrYmhNZm0yUmEyeGRuVE5DdDN5eVJBTT1aICIe//tiM2JnM0hwNUt6ajIzT3pZYnJFTFhSZ1BEWTQ9ZerwjOsS9AEINBLvAQocOXNCaldFeEx1QnVmbXZ0bE9CVkNrTFRRaThBPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2c1ZXSFpKb0NKd1RuVWZHRGRVNGJ6dE95Vm9acWNIV3BSZG9qTng4cm5YOXZjQitZakNtQzFoa2JDRExrdzhVSWloTGFVZz09GAAgAigCMPPmo/mS8f0COOCh3eTwMED/od3k8DBKHEp2OGxaaTZ4TENNRy9rUnNvTHp2ei9XYXN1VT1aJyIl/////wAAAAS2N01EckdVWm5ydFQrYXRBWWpqZUNuMTBJQ2pvPWX1CRodEu8BCDIS6gEKHFFuZXg5ZWExN3FvdkpTZGNBQnYxY1AyQ2NrYz0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdll0UDdYUk5URUFmNTlMNW9Hby9oVnBIRzNUNWUxcTZyS0FOQ3FsUEErZENwVkVvUlh5N3RQakhmL3pVSmNVamx4WWNZUnc9PRgAIAIoAjDW6ezTiPH9AjjnyrTj8DBAh8u04/AwShxKOVdlSFd0dW1YK2pKVmpSUU1lLzM5bHk4MEE9WiIiIP////40VVhyellWbWl6RHRybU8xYmI3eXllNlJOMm89ZcSnW/MS9AEIQRLvAQocSGk0WGk1NUhqVkRBN1R1TmkrYm9UUWVoU2lnPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2cTRiSi9iS3lVa25FWGtpY0xDWkVOYkdOVzd2alRaLytSTUtiRElyT1g5UUc1ZXNHdnBkQTRoZkcxWHFUbk9pdkZVRU0wdz09GAAgAigCMMOH4cmA0P4COKvU7fb8MEDM1O32/DBKHFU2MDU3bmxxeTJMOW5ycFhmNThLV3NaVEdLUT1aJyIl/////wAAAAXrcGN6bzRUWFA5SDUwSFBsTnBvNUsyTGFIenVNPWXrGeGCEu0BCBIS6AEKHGJROW9SQ3pLOXF2TmNZSTZiYytMWHoySlRFST0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdlJrV0JVOUxzdXkyRHQzajJIbWN3R3F5Q2lHUG0xTGd2QU9BVTd2UVMwOGRmMzJOdDVtbE5ITklkY3Y4SnFxZnlYNHZraWc9PRgAIAIoAjDBoLyo7YP9AjjljIfm4jBAjI2H5uIwShxKakVNL0h4VVpTVG1SQWdmT1hmL1gvTWdRMUk9WiAiHv/ddlBZdTBjV2JoWVBXVVdETHpRZWE5bHVSMHNFPWWxa4CSEu8BCDES6gEKHHcvVU03bXVQQnM3UWRLY1RZS0U3ZHFmWmpjMD0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdkZVWGgvamRuR21wZHlIK0loNldRSkZJc1ZGZTZYZ2J2VkdaRVl2V1l3LzJjZGpxK0krZVRjWUdkdmhHSUlycUZjRDNHZ2c9PRgAIAIoAjCP6qu0+/D9Ajj8x9vh8DBAksjb4fAwShx0ZkpNYVV4cEhpYkZFRkVFWndEVTVVVGZxRVk9WiIiIP////13REdBb3lOdVBnRVpJNnpVVVZEWVNyanlTZUE9ZUpwmwQS8wEIMxLuAQocelFYZUUyVDNPYW9mcWtpSTdpZEd2VUYzMnZNPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2S3lFWjF5TVpCUmxKS2pENjdFYnljQnFsZXJmOFgrT0pTWjR4QzlXdVRUckJMR2xVRGlFOSsvL3Y3eWN5RjVPZXpxbHh3Zz09GAAgAigCMO7+qZ+M8f0COJez7+PwMEC7s+/j8DBKHFdUdUZ3NW9CdVk0eCtpV1JDM244TkQyZFR0VT1aJiIk/////wAAAARtUkNPV3kyZEdJQ3JSZUw3UTArTkV2blp0dUU9ZW2gn/US7wEIMBLqAQocZE4xQkZHbERsRWwvaVhzbDRYU0Q2TUdvdENZPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2aHA0ZmVGT2ljdlJlVjBHTGlKenNRcUltTHFWS1BGOXcwY1J5am5OalV3d1Ywd0FlMWwybWc0cGRaY2N4Q2hzeWJrSitjUT09GAAgAigCMJm34/z38P0COMSmo+HwMEDlpqPh8DBKHE05WEFIREFvclBjRkJUQXIva2xleWtwUzdDaz1aIiIg////+1VLKzhUdGFWK2x4dDJCcjZMR3M1MmE5VGR1Yz1lBDBbThLuAQgoEukBChw5aXpiSWJWV25LdVNGUm0xK1FOUlVXWnB3NTg9EmZaOkFEcXRBWndxRWNrNGNyaktldmVQMVJ3WVdscHZtZFlEOHZoRkFMZTROdGJVaTF0bWVYZGhEdVJCVFpMYUcvTDBuMVN5OUpTSi9vdmNOdXJuM1B1WXc3SXJEZFZuYUhaTytBPT0YACACKAIwzvL078Tc/QI40oOHk+4wQPaDh5PuMEocWFdQMGh2Q1NhN2dJd3MzVm5nbERrOHpnZk5FPVohIh////9acHdIZ3NlampjaCtoMllqQXVlNDZOTlVrejQ9ZcSnW/MS7gEIJRLpAQocNnF6Y1NLOEIxNmxnUGRhTWJkV1UyK0V0WDdnPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2Unlva2RpZWlmMXY2MGxRL25CdVd5RHpQT3JzcWlrbDNoNFBQcUxHWWI4N1hueHNoSC9Ja0FINXdJMi9aMHY0b1VjWFpIUT09GAAgAigCMNuU7NK23P0COPf2nZHuMECW952R7jBKHG03RWZ6cXRQY1NHTjFtcnAzbU5RaVdEM3Jqaz1aISIf///9cDJlL1RnRG5FU2JiTFpuS0VMa0RpdlB3T1pRPWUrRFS6Eu4BCCYS6QEKHE5Xd2hhWVo1SUtEN2dyVE1MU2ZhQkNVbEhGUT0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdm53QjMrWHZYVnRGbzZNSkdxd25HeTd2NEFGYXpTR1IrVmlVTnJETTQzcDU2OXZrN0I0dk5nMkFsUU9iMzQxMUxzYVhsTFE9PRgAIAIoAjCI0N3XuNz9AjiTqb+R7jBAqKm/ke4wShxzb1pINFVmZytYV0k1dXIxTDRZcThnUzJXY1E9WiEiH////ngxQnhUYXdpZml5UGhVUlM4VzNpZXg0Wmpaaz1l6vCM6xLuAQgpEukBChxDcWhGUUJJU1N2VUdUcm9sMjVxam9MM0JhZ2M9EmZaOkFEcXRBWndxRWNrNGNyaktldmVQMVJ3WVdscHZNMVZuNk9yY0tYS25vRTBjNHNWbVJFSnBzS09Eb2ZBb0FETEtMR016aVIvNmFSMHhTWk5qS0J3dWZZZmVTRzBCQ2k0RW13PT0YACACKAIwxeqV+Krf/QI4oMfxwO4wQMHH8cDuMEocZVN0dUI2Wk15NS9KRFVNMVozUHhPNkJGZk1vPVohIh////9hUFAxQ29HV1oyUG5TUkhkQUQ3TklFbTBnZ0E9ZW2gn/USqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3Vkt0UnI0TmtNTnR6WW5aemJBTXdOY1dHdTg2SWNOMmt1d3d5emVpU0REUWxQdjdndEJSS0F4ZXNDTFMvSXljSzVmcStqGAAgACgAMMmH+ND4gf0COABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7QEIFRLoAQocbTVJOXNwWTZDejhZbTQ2OFBLK004M0tkTm53PRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2ZDZPNTBNOFdaMXBTWEFVWDMrR0c2Q0M2Q3d0MnpXckxoUUZaL3RQekpHM0pkZy9ldWlZOHBZRjRLK3NpUHVhVFAvWjY4Zz09GAAgAigCMK6S3cOfjv0COMinqZDkMEDup6mQ5DBKHGN3c1F1VUlkSTN1VHNwZW9kSXN6Q2VWL0hCWT1aICIe//dNVWdFSThMbnp1cUVzVE1yV1Jyb2duZGFMajg9ZerwjOsS7wEILhLqAQocOGRMNUNkNXZUdFIweUYvV0Q0WmJnc3ZNTG9FPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2cFFiV3VHN1JPbG5KazlEekhKSHdPWFE0UzkyaEVnRkpWV2Vha293L1ZVZHVWYVBUSG1IcE93M2xpdkRtZkEwRTdtRlNjdz09GAAgAigCMJuusars6/0COM/i7o3wMEDx4u6N8DBKHG5lcUxuYWtDVnQ0UXJtRmJiOU1PcS9SVFJUWT1aIiIg////9khLblJKTkVFb0s1anNJSjd6dkluTlhpS2pXND1leAapaxL0AQg1Eu8BChw3dVJIQVQ5VDFqUFFaUkZ2U2x2QVgrdDduL1k9EmZaOkFEcXRBWndxRWNrNGNyaktldmVQMVJ3WVdscHZtY0R1L1c0OVZCNURpL3c5NEtFUEFWcnFKOVl3M2I0MDJsWmpnK3R2aTJ4aUhTNUdYNzRJbWZnWHNkSmJZdkhvbFpWVlNRPT0YACACKAIwg+HzhpTx/QI49qvv5PAwQJms7+TwMEocMnRmRlJmNkhwdG82M1JrZVpLcnhqYlBpNXVJPVonIiX/////AAAABNsxT1JOOUlaZERZZUlRUklZUkExS0p4aEU4c2c9Zdrw6SYS7wEILBLqAQocVnZyRnNPejFUVXgzb1pKK0dndDRaTFZ1UUljPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2SzZJc3VEYTZTUzl1OTZpcHJIcGFJZTArbjNXeUxBdFVnWEE4TXBCOTk5ak1NRXRyakhZdDNuVHgwMUVEeXFkRk5yZ3F2dz09GAAgAigCMJChpdCs5v0COKek5bPvMEDSpOWz7zBKHHNRaU9RM1JiUmMxY2IwR0xQd09zQ291bzFuOD1aIiIg////7FpUUlFhMGJTNDdrdTY5dGpZN3Q3RGhMMHFLST1l0HUYnBLrAQgIEuYBChx3QzNDb1I0a0daQm9rRDhDSkdBbk9ub3liYXM9EmZaOkFEcXRBWndxRWNrNGNyaktldmVQMVJ3WVdscHZQOVB2SW44N2VIcElqRTMvQXRNbndnMGduMkJQRUE0ZHRNUWhvTlZQM3JGK1BWOENZdlFaZTRMUExDS2ZueTB5Mmd4MER3PT0YACAAKAAwpaf3vo73/AI4rLPXut4wQKyz17reMEocZjB1a1lJYWoyQzNxOXExRVk2anozT2tVVENRPVoeIhxtQ21wUVFkNG85VUhEOFV2dVdDMUVjVXFzSm89ZQAAAAAS7QEIFBLoAQocTHVWZ21nYkVucXJDWXA3VmNXT3c1bFRuTC9RPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2WVo3R0E0MVdYVXdrQ2ZOS1ZaUFRFQUV3QWdGTDZ3dVdLRi9MaDU2ampuWkZ3V1ZlM2xBL3A1a2pWc2J2SzNPanViZVFWUT09GAAgAigCMM2KwMqejv0COKfjmZDkMEC945mQ5DBKHGZxaytFemEyQmFJWlR1RXpEVG4rTHhBY2dmdz1aICIe/+5FUTJ1c3N3SDlNdDVHZjE4VktpbUZrbTRTaGM9ZerwjOsS9AEIPxLvAQocTlBSOHBPVnBvbWo2YlZCejhKK1A4OTZLMjdZPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2dXN6R3I2RzdPcjhGWE1CNk9IQjgxSDA5VTNObXdnR3RxYzZjNGxjVjBIT3NFUzZOYS9iWGRZNVhKQU5Bd1BCUk1zQzZnZz09GAAgAigCMLnh6Kb4g/4COPbIzpjzMECYyc6Y8zBKHFl4Ym9kR2ZpdnlJMzV2SXFRWnYwSHhkaUtQZz1aJyIl/////wAAAAXWcUNUYnIyenFOS1RZK3RJaFJ4VkJKdTZBemswPWXroPrqEuwBCAkS5wEKHGxJTldEdEhaeVhrRTIyOFRSaGNscEw1Kzlyaz0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdnhydEV6RFRqejBMclNzR0JTV0NOTDBHSFM5eXJLenI5Q2ZoN2E5cUR1USthc3JhUUJXa1cydXQ5NFYydmkvV0gxMDBRVlE9PRgAIAEoATDfofCMw6j9AjiF89e63jBA6IbuvucwShwxSStyN2VCODNUOEs5a2hoSTBGeFBEcStSNkk9Wh8iHbYzVXFtQWV6M0wyMGJLeTVJQW9ydkVNblhDQ0k9ZSbDZuUS7gEIIRLpAQocbEtvY01mczVZYjNiakNWZzRUbUxmYUF3SkE0PRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2WWlxSEEvOS9veUNqOVdqd08xcU5OOWQ3K2V1U3hEL3JtMUd6NTlNTEdYam5BQUMwYWpOTjF2RWtDMUNhdzJNcVZwT0ZIUT09GAAgAigCMKrrqrzB2/0COMyPnoLuMEDzj56C7jBKHHlTME5WSDY4ZXV4eTdOZmdnOWQxNFF6UGtsQT1aISIf///2ZEZEOHo1elVOTWs5aHBYYnM0bWNZUVhvbWxNPWWTLmRoEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeDVIby9CNkd2SXIxN2o5TjFteEZCK2F0ditmcGRWWWhzTnczZ0xBSUJBTzRidXUzc0M0VUp4bW9aR2ZIQ0tqYjdoVysrelVHQlBvRE5YQ25HRytsWWFqZEg3bXc9PRgAIAAoADDJh/jQ+IH9AjgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEu4BCCMS6QEKHEJMeDUvT1ZvbWxEMzlzTjJDRFJIWTVhQURwUT0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdjVUYTFwZ3RhL3IwWm41a2Z3TjYrT3ZwZjhBSUZnekVma0pqYWN6b3p6cFVwL2xIZEFpMGIxNUlleTYxbTRCS3oydU8rVlE9PRgAIAQoBDCUlZzP/bz+AjiZ8feP7jBA07eXv/owShx4S21OMnFsc2trRUhrK3N3dDVMYVFmQmdVaDg9WiEiH///+1FiQ1FSUE5wL3V1TFVZQVdlR3l6UjM5YnZraz1laRsi8xLvAQgqEuoBChwwaUV6QVRLdEVNQmpPUGorOGs3dVQwck9PS1U9EmZaOkFEcXRBWndxRWNrNGNyaktldmVQMVJ3WVdscHY0aVlrN1BYQnRmL2N6bzJ0Z3llMzZTSDBIUHJ4SXJKYy8xTTJ0RzY5UUtTVm54VkpxOE15eWZBRGFJZ2R1TXcrbC9pMENRPT0YACACKAIwu9PRs67f/QI4vKmqwe4wQN2pqsHuMEocTFoxMW43ZzFCRmx3ZGcwSXUrMW9JSmtadjRFPVoiIiD///+wSVNpVmV2UFNjU3Q3S1FHZlhrVTc3SGRQb2UwPWUhhIT6Eu8BCCsS6gEKHGgzTjdRWTB1aTNCUFE1cUlpSWlDV2h1UHpUMD0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdjhkek9FK2t5cjcrYWh4VXRXNXlYV1poSlJSeFgwYjdxZVh0YTBZSStVc3BucnoycFVJYkx1ZzZjK3czTyt6Mnl5WnowVEE9PRgAIAIoAjCc8Ze4rOb9AjjYmeKz7zBAgJris+8wShxGSFVheWlkeWlDT1JUMThzb3Brc1kyblRZRGc9WiIiIP///9hpMmMrRllPeUxMS2c2WTZsUHVrRklxTHV1N0k9ZZ+Kgl8S7QEIHBLoAQocdmtMODlIRGdPeXVsSU0reG1PUTllM0JQNENNPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2b2gzWmR5TFB1ZmhNYXpoOGoyWXBzRW51YTJYYjMzeGxXazhxQUE0SEhqQzZIQUxuVXMrUDN3aWgwSTRrT1ZpbXdab1ZnQT09GAAgAygDMNOBxuS3lP4COLG87Y7tMEC4i/Gm9TBKHDlud0I1SHFnU3Y0MjcrS2NENm9XVFF3R1ZCbz1aICIe//9hSHgwdjIxOVVSZ1ZNZ1FSenpLczJqbUxCdTQ9ZdVHTTQSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4NE5pcXkxVUlBakVlcnFQUnlQZ1hrSmlTZHMyTjRNb2dvMmdOY3RvL284cHJKMm0wbVR3eCt4WVFHUm9IdUNORzdLZFAzdlRieHBJTUF2N29Kc3FNbFk4V0RCUT09GAAgACgAMMmH+ND4gf0COABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7gEIJxLpAQocbjYzNEJHNmloRDhUNzIyNXZiMmVwQUJod2RBPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2dkFJVmM2YjcvMkVVcW4rZHNPSFlhcGlpSjlvUjRMYU1HTW4yMkt6Y3lQZEFPKzVDZXNFbW1ySjBEMWVlK0hjZS9QMXZ1Zz09GAAgAigCML/Ard/E3P0COI70hJPuMECh9IST7jBKHEk3STFjVktZV0dLM0F0VGFuOEhodzJ0QlFKUT1aISIf////WCtKNWRnNWRVbnhyQWlwUkhpZ253TE83M1c0PWXEp1vzEu0BCBAS6AEKHG9CME5aaWVxc09jU1NkNlg3V09rZ3VQM3lnYz0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdlNYVzdMNkFyZVc1MzVNU0p6c2IranZDeHBZSWhjajRUaXZqUEFiaXRBeURQTTd6Z1ZpWFovQ3IwWjZueVdvTGxqY3h1T3c9PRgAIAIoAjDP6PyJ5oP9AjiywZDl4jBA1cGQ5eIwShxyYURpekN5M1RNMldaeHBVMmlWM3VEVUFnalU9WiAiHv+7MHhPRWFsYWd3aDBtSmVubDhrbkNsS0Q5WHhZPWX8m8TzEu0BCBgS6AEKHEdpZHlxS3Zaclowbm5hOGpPWUNFMkgvTjFNaz0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdjA2K3pDWHNDcWlEeGZzbTBsRHNnZUpLd0hsMzdxMnJqOXA2Mlo3c1ZYQ2xWWXhicnBmUGV6OUlhSFo2ZkYxTU9pVVZXRmc9PRgAIAMoAzDc6MvMsa39AjiBvcSO6DBA14jFjugwShwwSWhsRWtvU2cxejgzU0ZXOXh3a1NPR2lWR2M9WiAiHv/9a2xWb1NpU2NKei92VThiTkNwTjZ1SEhZQlNFPWUL/TomEuwBCAcS5wEKHFdIaTdZdWd2d2JRdVYvRDROelozUWVsczNTdz0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdmtuakNGK0Z0Q3pDM2czOS9Gd2NpejNWZmhVVVBrMDM0cytDTVZ5VEgyQ3JiYmtrN3B0d1FUOVJkRUtIK3pxVnVYM2IzNVE9PRgAIAEoATC61s/R+IH9Ajjrst7G4jBA67LexuIwShxXWUx6d1VQUStpQm1kT2ZkS1cremlzdUJMcm89Wh8iHf92bXNuaDc1bFBGaEpXUlJRWkFkeXYzem1IQkk9ZQgMSi4S9AEIOhLvAQocVFY3WHZPTmgrUkJmWmJTMWkrc1lOYUFpeVRNPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2RFFHenJBc1lGTWc5ZG51cEY0OWprTllIeGxROUNqUDVMWjZCcWNJcTRRTUxpZFFLTDdSckFzc0wwZEViVkQveFVlSXJzQT09GAAgAigCMKHhqKDSgv4COJ3/rYPzMEDB/62D8zBKHFRySE41R3hNTFl6UyttaDRBMlN1bXRuNXl6dz1aJyIl/////wAAAAT7RUFnZGpWU3puSVY2T3g1ZHN6dzEyWnp5TkpnPWWyNSdzEuwBCA0S5wEKHDMyT1U1WEFHQmIwUTFiWkFXSkgyNWdQZlVGWT0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdjBhOTl5UTVDNzlmK1JUVU5zWGdRUDBSS3YraGNUbXBUOU5tZnpIb0tjYzZHUVB6d3ZjdGl4YlIvaFBCcDBlQkZNS3QrcVE9PRgAIAIoAjC61s/R+IH9AjiT+4Gt4TBAgrPexuIwShx5VFJadkViVGQvb2R1bHZhRmMrejhjOW01VEU9Wh8iHftBVVQ5NHlOLzc2TVgzdGFtN25mK2UxS0t2MU09ZW2gn/US7gEIHhLpAQocQ29xSjc1Nis0MTNHT2l1MFEvdDlUdHBtaFdzPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2VDJCbE5GWjBPUldSbVgrUlVBZEpNTkR5bURqSXJBaGJvV1o4Q0I3ZWJGYlh5WW5tOXJSeFg0d0hKYzVQRjVyRjcrazN4UT09GAAgAigCMIfS1ajt1P0COMy3lJXtMED1t5SV7TBKHDdNUERVVkJlMnArQ0dPb2RodVI4RFE4V1B3VT1aISIf///Yd0hBclN4aC8rQTFkdTVhamdVWjhsTXlDcGhVPWVz+niEEu4BCB0S6QEKHEVZOGZLVmVpd1I3YTU2eFZjYVhTYTQxWlZvRT0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdmJ4Y25Na3A5bFYwWXJDZlJGZi9FZy9tK3Z0aEVQWS92Vy9NcCtuTEQ5NHN3QjFselFqSDNSYmxVS0NmNWpTWkFINGpYbVE9PRgAIAQoBDDTgcbkt5T+AjiErfGO7TBAuIvxpvUwShw1YS9meS9RYnhIMFFCRS9sZ2NpaW9GVEE1YjA9WiEiH///sCttenB6dVROcW85SVpBUjU4Uk9EamVPWHk5Zz1l1UdNNBLsAQgOEucBChxSK2JxQWtkenlpRGhGRXpTbTBTY2E0Mzdsd3M9EmZaOkFEcXRBWndxRWNrNGNyaktldmVQMVJ3WVdscHZqRXppeGJwWHh4ZGN5R2V5SklidEF3YlNteFJPbDV2WTRjTitVSEkvZGdlR3E0eDZ1eHdVcUQ3MmNuTXZDNkxMV3dscHdBPT0YACAAKAAwqv3AjZv5/AI4jdnYt+EwQI3Z2LfhMEocTHJkc0tlRWdNbXlVT1dadDBnQ3FaRFp3TEF3PVofIh39VDMzdlFqRHhlbU5KUUpmK1VoeDJwYzBPcDhzPWVaV2miEuwBCAUS5wEKHHkwbGNDWXI5Q1FSWUdiR2F1N0JaanJkdHVjaz0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdnVQUXNmLzYxdUZnQzJmbTZ4Mmh5dnVGMXRraWlTUTlzM2JlV0ZsN0k2RXpsUG15STh4WUI5WlRHWkVlVnI1WTBOR1A1MlE9PRgAIAUoBTDJvKfpuun9Ajjrst7G4jBAiKnh5u8wShx2emMrRWg2UFdrd0V6bGZneHBvSU9PZ1N0bDg9Wh8iHf5iZGhkaHhLandNaVN2L2tMSFAyYVpQRU9VU2s9ZfM4P/0S9AEIPBLvAQocTklFeEw2MG93Wm55V2pSUklhSUhCNzVVNm80PRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2NnNOMGFDYXAybnlQazFOVWVZd1FOcG1sMWZvUDVHWTFsSEVVNmlzSk90OG9TdHA0MXZtMmVQZW1WTkpEQ1pSdjFGcklEdz09GAAgAigCMMLJ0bHfgv4CONSZhYXzMEDqmYWF8zBKHEVjK00yczArR2srM2tsOWcwMkNuUDBmU1U3dz1aJyIl/////wAAAAT+aE1ycmVUM2wvVEl0QlpaNW52R2FhK0gzUTVZPWW5bxgpEu0BCBsS6AEKHEVzUEdsWnpjUitSdEtaSFJmU3dNOXl5dEg2Zz0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdnZoNERKaVNsYzUyZ3NydmVvTXJJTDdreHgxU1I4YTN5b1ZuMkRyMkUrN3doUmdOUUI1aUhTSStEL3ZjTU1lR3piNDZkYnc9PRgAIAEoATCbgr7MtdH9AjiMh/Dc7DBAjIfw3OwwShxoeHM5cmo0OXRlWlhpWFpSMC82SUx3bkFKbUU9WiAiHv//NFpYTVdBNEJ3ckk5ZjFnN05JeVFqcTdTZW1rPWUAAAAAEuwBCAwS5wEKHERWYkpodVFCREJRZEsyMyt6dy9TSU9EcTNXOD0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdm5Fb003UTdCanpqcUVheEpVL2ZPR3NOWTAxTnY0UmNlYi9oM1JqRzNDMXVUdmRJTjRscnNRbEhscG5ray9vRWlNZjZiQlE9PRgAIAIoAjC61s/R+IH9Aji0pICt4TBAgbPexuIwShxlUkN4SlFvRTJxVUJhdWpCSmg0Y0kxZE5ZTWs9Wh8iHfYyRjF4U3FOVkNNNlNkZ2lzVTdCaXphckdBbnM9ZerwjOsS7QEIGRLoAQocbDRwNmZWVVFvemY3a2VBSTY2SXNpWk1wZlRZPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2OGRoOGo5TWZ2Q1VidlpQanZTTkkyU1ZnbnowTUpIKzA0cnhHamlPc3RXbHJPY25yV3RERzNWdlpjZE1FZzRGcGhZSktJdz09GAAgAygDMNOHhsOK7P4CONDm/o7oMECK8PDCgDFKHDlOZE9laXhhWk44a3IvSUdiWlduc1UvZUp1QT1aICIe//5nd09nOWJzV0hLbjlLWEJtU016RXZKNFJ1S2c9ZaBm2+gS7AEIChLnAQocdG5VRlJOOHBoNnN6YVZsVG5iYnc2ZEhJczZZPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2bTA4TFBCTjlSU3ovVFlNalkxdmtQQ09RdVdST0sxYW9XT1hTdlVmMWM1dU1sV053R1ZVTitGZ0FBT2hxSzBhMWV3WjBaZz09GAAgASgBMI+tsd2Vq/4COJvK2LreMECnzq2b+DBKHFN3REt3OWNYTnZsdDFEVE1pby9tcFJHNVRpMD1aHyId22RTOUhpMThsdHFXWVF0Y1diM0VqUFplREdGQT1lbaCf9RL0AQg7Eu8BChxhWkJhRXlMYUtHbDJ5YzJiUHZidEdJQmNValE9EmZaOkFEcXRBWndxRWNrNGNyaktldmVQMVJ3WVdscHZBam4yTlJFRDZKaWo5dE95MENFdFZnYkVvWjFqZnA5R1VmRzk4ZTVmbklYYUdHQWJHYThybjQzWDk3aWRrMThnTW1pLzZBPT0YACACKAIwrIzY9dKC/gI4gPa4g/MwQKb2uIPzMEoceHprRmwxZ3EwSG1IQWp6ZTM4OHh5VHNKQjZFPVonIiX/////AAAABP05QnBMOFBLZHZ3cXdHY3p1TURlczUzblFERHM9ZfJFbvcS9AEIPhLvAQocQWtYeUw4dk9odFNqTGtJU25VNkRRQ1JzUG9nPRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2NWoxVi9kYWUvREdQb1dLL0VoQnRnbFAwMkthaFhyWi9aUkVVS2U3eHlSbGJJNFhQNjVIZlVLK1ZNY2sxR3llWFZnVkNhZz09GAAgAigCMP7M0aL4g/4COKaEzpjzMEDEhM6Y8zBKHDRweXBjU21IbStkWklmVHFlMWN0STB6ZFNPYz1aJyIl/////wAAAAWsTkViYi9DaDVsUFN3U1J5dC9neHpYdDg5VnNvPWV6/flAEvQBCDkS7wEKHFcyUStnQTBtWi96a0dJdkRlOUtjMTRUZFZCTT0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdk9mRFdPMW1VOThKR3FtUWYzK01OVkRDenkvVkRUeHVyZGpNS3RoVzMwa2RJcmV2SmUvM09GTm4xblNhb3c1WFNKdUp3RkE9PRgAIAIoAjCW9KP10YL+AjiQvqiD8zBAtr6og/MwShxOdzlqUjJEMW9JWEVjZ0VUNjgrL1plVDNhN2s9WiciJf////8AAAAE9lhTb01Fa2g2bEsxcmd2dXJieVZxRDBsOXhyTT1lz236khLuAQggEukBChxDenJ5TXZ2TmVpSmFXeTk1elE4clhjbE9ldVE9EmZaOkFEcXRBWndxRWNrNGNyaktldmVQMVJ3WVdscHZLeDFYSTNXeVJkdDgzcTlmMzV0bVBmOWdJOTF0UWNCS1lDUWd3MlYzdzFGNTdBTG93TWZTRUtja1Z0bHg5NFRlb2w0MXBRPT0YACADKAMw6uXSi9Tb/QI4r9ib8+0wQPGXz4TuMEoceWhuck1NMVA5OU1QSC9lVzZYUXBXa0YyeE5jPVohIh///+xhd1hKOTBRRDhWeUdxLzFoT2hBTm5ONDlSNWs9ZTNnR3oS9AEINxLvAQocMHR1QUo3NjFJNCt3N0Z5Wkx3WU9CeFlLNlg0PRJmWjpBRHF0QVp3cUVjazRjcmpLZXZlUDFSd1lXbHB2VUtNY3dvSVNvQ2RFeGM1TnRvc1V0TXhGN0hocGRFOUxrbWFranZNZkJXTmIzSGxlZjFWa3RxeTZtT0lqSEpFb0VmaXBmZz09GAAgAigCMKTJjajZ9/0COIyAhdDxMECtgIXQ8TBKHGFMdWVKQVJ6eGRPMW9Ka0M5RGpZNDc2bzg0OD1aJyIl/////wAAAATtcjlBU0JMUUR5a0RXL3A5NGcxSHVzQXlTbmtjPWV6/flAEvMBCD0S7gEKHE5mVVdVdHV3Z2phSkFUb2xPUEJGeDVsYTVYYz0SZlo6QURxdEFad3FFY2s0Y3JqS2V2ZVAxUndZV2xwdng5QW9zYXdaZGZ3OG1HRGdGaHdRa0hwWlcvTWVCdEVMQnhhQ0RYRzBQYnV3OVlscktMdzB1WFRsY3puY1JtMnFlZm9FQnc9PRgAIAIoAjDgtJu94YL+AjiOuqeF8zBArbqnhfMwShxlZmNNWWkwUVZPL2d3UmoxYVR1Qm1IeTcyelk9WiYiJP////8AAAAFWHF4VFNIeUI3MWt4VVVRcXhMVlZ4VWhFb3ZvPWXEp1vzMAE4AA==",
+   "version": 1
+}

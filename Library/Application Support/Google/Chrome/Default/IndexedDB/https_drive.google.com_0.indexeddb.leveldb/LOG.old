@@ -1,0 +1,25 @@
+2023/05/22-14:34:58.021 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/22-14:34:58.021 8003 Recovering log #552
+2023/05/22-14:34:58.023 8003 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000552.log 
+2023/05/22-15:25:12.639 8603 Level-0 table #564: started
+2023/05/22-15:25:12.661 8603 Level-0 table #564: 1474913 bytes OK
+2023/05/22-15:25:12.673 8603 Delete type=0 #552
+2023/05/22-15:25:12.679 8603 Compacting 1@1 + 7@2 files
+2023/05/22-15:25:12.700 8603 Generated table #565@1: 6828 keys, 2129761 bytes
+2023/05/22-15:25:12.719 8603 Generated table #566@1: 2357 keys, 2121722 bytes
+2023/05/22-15:25:12.736 8603 Generated table #567@1: 2358 keys, 2123482 bytes
+2023/05/22-15:25:12.794 8603 Generated table #568@1: 2280 keys, 2122636 bytes
+2023/05/22-15:25:12.811 8603 Generated table #569@1: 2120 keys, 2122993 bytes
+2023/05/22-15:25:12.828 8603 Generated table #570@1: 2197 keys, 2126409 bytes
+2023/05/22-15:25:12.844 8603 Generated table #571@1: 2243 keys, 2128219 bytes
+2023/05/22-15:25:12.853 8603 Generated table #572@1: 16058 keys, 344450 bytes
+2023/05/22-15:25:12.853 8603 Compacted 1@1 + 7@2 files => 15219672 bytes
+2023/05/22-15:25:12.857 8603 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/05/22-15:25:12.858 8603 Delete type=2 #559
+2023/05/22-15:25:12.858 8603 Delete type=2 #564
+2023/05/22-15:25:12.858 8603 Delete type=2 #558
+2023/05/22-15:25:12.858 8603 Delete type=2 #560
+2023/05/22-15:25:12.858 8603 Delete type=2 #561
+2023/05/22-15:25:12.858 8603 Delete type=2 #556
+2023/05/22-15:25:12.858 8603 Delete type=2 #557
+2023/05/22-15:25:12.858 8603 Delete type=2 #555

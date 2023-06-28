@@ -1,0 +1,6 @@
+2023/03/14-18:28:59.922 8207 Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_tastesbetterfromscratch.com_0.indexeddb.leveldb since it was missing.
+2023/03/14-18:28:59.930 8207 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_tastesbetterfromscratch.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/14-18:29:08.638 8403 Level-0 table #5: started
+2023/03/14-18:29:08.646 8403 Level-0 table #5: 405 bytes OK
+2023/03/14-18:29:08.655 8403 Delete type=0 #3
+2023/03/14-18:29:08.655 8403 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

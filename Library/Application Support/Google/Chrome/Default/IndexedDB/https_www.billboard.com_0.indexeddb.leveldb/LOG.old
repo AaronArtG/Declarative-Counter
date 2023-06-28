@@ -1,0 +1,6 @@
+2023/02/09-17:28:20.538 28c37 Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.billboard.com_0.indexeddb.leveldb since it was missing.
+2023/02/09-17:28:20.549 28c37 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.billboard.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/09-17:29:13.308 28c37 Level-0 table #5: started
+2023/02/09-17:29:13.312 28c37 Level-0 table #5: 386222 bytes OK
+2023/02/09-17:29:13.321 28c37 Delete type=0 #3
+2023/02/09-17:29:13.321 28c37 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

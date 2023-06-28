@@ -1,0 +1,15 @@
+2023/05/10-19:24:23.032 8203 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_37c964ea9c192fd3c01a0910c2b5dce1.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/10-19:24:23.032 8203 Recovering log #11
+2023/05/10-19:24:23.032 8203 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_37c964ea9c192fd3c01a0910c2b5dce1.safeframe.googlesyndication.com_0.indexeddb.leveldb/000011.log 
+2023/05/10-19:24:49.290 a403 Level-0 table #16: started
+2023/05/10-19:24:49.293 a403 Level-0 table #16: 209 bytes OK
+2023/05/10-19:24:49.300 a403 Delete type=0 #11
+2023/05/10-19:24:49.300 a403 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/10-19:24:49.300 a403 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 16 : 1
+2023/05/10-19:24:49.300 a403 Compacting 1@1 + 1@2 files
+2023/05/10-19:24:49.304 a403 Generated table #17@1: 9 keys, 468 bytes
+2023/05/10-19:24:49.304 a403 Compacted 1@1 + 1@2 files => 468 bytes
+2023/05/10-19:24:49.308 a403 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/10-19:24:49.309 a403 Delete type=2 #16
+2023/05/10-19:24:49.309 a403 Delete type=2 #13
+2023/05/10-19:24:49.311 a403 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 16 : 1 .. (end); will stop at (end)

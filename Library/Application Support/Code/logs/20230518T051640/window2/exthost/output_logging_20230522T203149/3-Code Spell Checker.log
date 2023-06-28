@@ -1,0 +1,171 @@
+[Error - 8:39:00 PM] 426	2023-05-23T03:39:00.980Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-companies/dict/companies.txt does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 427	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-filetypes/filetypes.txt.gz does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 428	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-public-licenses/public-licenses.txt.gz does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 429	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-software-terms/dict/softwareTerms.txt does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 430	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-aws/aws.txt.gz does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 431	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-cryptocurrencies/cryptocurrencies.txt.gz does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 432	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-en_us/en_US.trie.gz does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 433	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-fullstack/dict/fullstack.txt does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 434	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-node/dict/node.txt does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 435	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-npm/dict/npm.txt does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 436	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-svelte/dict/svelte.txt does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:00 PM] 437	2023-05-23T03:39:00.981Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-typescript/dict/typescript.txt does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:01 PM] 446	2023-05-23T03:39:01.032Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-companies/dict/companies.txt does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:01 PM] 447	2023-05-23T03:39:01.032Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-filetypes/filetypes.txt.gz does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:01 PM] 448	2023-05-23T03:39:01.032Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-public-licenses/public-licenses.txt.gz does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:01 PM] 449	2023-05-23T03:39:01.032Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-software-terms/dict/softwareTerms.txt does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:01 PM] 450	2023-05-23T03:39:01.032Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-aws/aws.txt.gz does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:01 PM] 451	2023-05-23T03:39:01.032Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-cryptocurrencies/cryptocurrencies.txt.gz does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	
+[Error - 8:39:01 PM] 452	2023-05-23T03:39:01.032Z	Error: /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/node_modules/@cspell/dict-en_us/en_US.trie.gz does not exist.
+    at w (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:300366)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:541996
+    at i.addFile (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:542042)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517433
+    at Array.forEach (<anonymous>)
+    at i.processSettings (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:517416)
+    at /Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:538210
+    at async te (/Users/aarongarcia/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.4/packages/_server/dist/main.js:2:536137)	

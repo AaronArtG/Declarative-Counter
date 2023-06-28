@@ -1,0 +1,6 @@
+2023/04/10-14:14:44.756 8007 Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.midjourney.com_0.indexeddb.leveldb since it was missing.
+2023/04/10-14:14:44.764 8007 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.midjourney.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/10-17:55:50.968 a703 Level-0 table #5: started
+2023/04/10-17:55:50.970 a703 Level-0 table #5: 4471 bytes OK
+2023/04/10-17:55:50.975 a703 Delete type=0 #3
+2023/04/10-17:55:50.975 a703 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

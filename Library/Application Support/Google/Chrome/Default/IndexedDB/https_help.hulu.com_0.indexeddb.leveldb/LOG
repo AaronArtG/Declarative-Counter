@@ -1,0 +1,16 @@
+2023/03/24-02:10:38.035 6d07 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_help.hulu.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/24-02:10:38.035 6d07 Recovering log #4
+2023/03/24-02:10:38.036 6d07 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_help.hulu.com_0.indexeddb.leveldb/000004.log 
+2023/03/24-02:10:39.447 f903 Level-0 table #8: started
+2023/03/24-02:10:39.456 f903 Level-0 table #8: 1411414 bytes OK
+2023/03/24-02:10:39.462 f903 Delete type=0 #4
+2023/03/24-02:10:39.463 f903 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/24-02:10:39.464 a603 Compacting 1@1 + 1@2 files
+2023/03/24-02:10:39.471 a603 Generated table #9@1: 411 keys, 278970 bytes
+2023/03/24-02:10:39.471 a603 Compacted 1@1 + 1@2 files => 278970 bytes
+2023/03/24-02:10:39.476 a603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/24-02:10:39.476 a603 Delete type=2 #5
+2023/03/24-02:10:39.476 a603 Delete type=2 #8
+2023/03/24-02:10:40.616 a603 Level-0 table #11: started
+2023/03/24-02:10:40.643 a603 Level-0 table #11: 1643438 bytes OK
+2023/03/24-02:10:40.646 a603 Delete type=0 #7

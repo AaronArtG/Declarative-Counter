@@ -1,0 +1,6 @@
+2023/03/08-20:15:57.239 a703 Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.npr.org_0.indexeddb.leveldb since it was missing.
+2023/03/08-20:15:57.244 a703 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.npr.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/08-22:12:53.951 31ea3 Level-0 table #5: started
+2023/03/08-22:12:53.956 31ea3 Level-0 table #5: 133460 bytes OK
+2023/03/08-22:12:53.962 31ea3 Delete type=0 #3
+2023/03/08-22:12:53.963 31ea3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

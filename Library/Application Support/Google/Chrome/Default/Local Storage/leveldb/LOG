@@ -1,0 +1,22 @@
+2023/05/22-17:52:33.367 3d03 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/05/22-17:52:33.368 3d03 Recovering log #1996
+2023/05/22-17:52:33.369 3d03 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/001996.log 
+2023/05/22-17:52:44.965 2f03 Level-0 table #2000: started
+2023/05/22-17:52:44.970 2f03 Level-0 table #2000: 56316 bytes OK
+2023/05/22-17:52:44.979 2f03 Delete type=0 #1996
+2023/05/22-18:50:52.173 2f03 Level-0 table #2002: started
+2023/05/22-18:50:52.179 2f03 Level-0 table #2002: 49722 bytes OK
+2023/05/22-18:50:52.194 2f03 Delete type=0 #1999
+2023/05/22-18:50:52.194 2f03 Compacting 4@0 + 3@1 files
+2023/05/22-18:50:52.216 2f03 Generated table #2003@0: 2010 keys, 2630009 bytes
+2023/05/22-18:50:52.239 2f03 Generated table #2004@0: 5889 keys, 2131211 bytes
+2023/05/22-18:50:52.250 2f03 Generated table #2005@0: 1546 keys, 878463 bytes
+2023/05/22-18:50:52.250 2f03 Compacted 4@0 + 3@1 files => 5639683 bytes
+2023/05/22-18:50:52.255 2f03 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/05/22-18:50:52.256 2f03 Delete type=2 #2002
+2023/05/22-18:50:52.256 2f03 Delete type=2 #2000
+2023/05/22-18:50:52.256 2f03 Delete type=2 #1995
+2023/05/22-18:50:52.256 2f03 Delete type=2 #1997
+2023/05/22-18:50:52.256 2f03 Delete type=2 #1993
+2023/05/22-18:50:52.256 2f03 Delete type=2 #1992
+2023/05/22-18:50:52.256 2f03 Delete type=2 #1991

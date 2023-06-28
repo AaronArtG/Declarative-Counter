@@ -1,0 +1,21 @@
+2023/05/20-02:15:03.707 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/20-02:15:03.708 8003 Recovering log #153
+2023/05/20-02:15:03.711 8003 Reusing old log /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000153.log 
+2023/05/20-02:19:56.940 8603 Level-0 table #158: started
+2023/05/20-02:19:56.958 8603 Level-0 table #158: 1142811 bytes OK
+2023/05/20-02:19:56.965 8603 Delete type=0 #153
+2023/05/20-02:20:44.592 8603 Compacting 1@1 + 1@2 files
+2023/05/20-02:20:44.598 8603 Generated table #159@1: 534 keys, 62735 bytes
+2023/05/20-02:20:44.598 8603 Compacted 1@1 + 1@2 files => 62735 bytes
+2023/05/20-02:20:44.604 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/20-02:20:44.604 8603 Delete type=2 #158
+2023/05/20-02:20:44.604 8603 Delete type=2 #155
+2023/05/20-02:26:00.143 8603 Level-0 table #161: started
+2023/05/20-02:26:00.156 8603 Level-0 table #161: 1068891 bytes OK
+2023/05/20-02:26:00.161 8603 Delete type=0 #157
+2023/05/20-02:26:21.745 8603 Compacting 1@1 + 1@2 files
+2023/05/20-02:26:21.754 8603 Generated table #162@1: 803 keys, 64565 bytes
+2023/05/20-02:26:21.754 8603 Compacted 1@1 + 1@2 files => 64565 bytes
+2023/05/20-02:26:21.762 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/20-02:26:21.762 8603 Delete type=2 #161
+2023/05/20-02:26:21.762 8603 Delete type=2 #159

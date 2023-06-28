@@ -1,0 +1,6 @@
+2023/05/21-06:49:59.084 8003 Creating DB /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.buzzfeednews.com_0.indexeddb.leveldb since it was missing.
+2023/05/21-06:49:59.089 8003 Reusing MANIFEST /Users/aarongarcia/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.buzzfeednews.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/21-09:07:55.542 8603 Level-0 table #5: started
+2023/05/21-09:07:55.553 8603 Level-0 table #5: 3576556 bytes OK
+2023/05/21-09:07:55.560 8603 Delete type=0 #3
+2023/05/21-09:07:55.562 8603 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
